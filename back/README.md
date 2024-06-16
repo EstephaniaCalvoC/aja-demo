@@ -1,5 +1,6 @@
-# Project Name / Back
+# AI Judge Assistant Demo / Back
 
+This tool will leverage large language models (LLMs), LangChain for managing prompts, and vector databases for efficient information retrieval.
 
 ## How to run
 

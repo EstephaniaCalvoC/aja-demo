@@ -1,6 +1,6 @@
-# Project Name
+# AI Judge Assistant Demo
 
-<<Description>>
+AI-Powered Case Summarization Tool
 
 - **Status**:
 

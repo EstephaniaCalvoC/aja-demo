@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-WORKDIR /project-name/back
+WORKDIR /aja-demo/back
 
 COPY runtime_requirements.txt .
 
